@@ -1,4 +1,4 @@
-A giter8 template for creating scratch projects.
+A [giter8](https://github.com/n8han/giter8) template for creating scratch projects.
 
 Includes:
  * Shapeless 2.2.5
