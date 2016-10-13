@@ -2,11 +2,10 @@ name := "$name$"
 
 version := "$version$"
 
-scalaVersion := "2.11.7"
+scalaVersion := "2.11.8"
 
 libraryDependencies ++= Seq(
-  "com.chuusai" %% "shapeless" % "2.3.0",
-  "org.typelevel" %% "cats" % "0.4.0",
+  "org.typelevel" %% "cats" % "0.7.2",
   "org.scalacheck" %% "scalacheck" % "1.13.0" % "test"
 )
 
